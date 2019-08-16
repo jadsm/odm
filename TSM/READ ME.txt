@@ -1,0 +1,15 @@
+The distribution, copy and usage of this code or any modifications of it is permitted if properly cited as:
+Delgado-SanMartin JA, Hare JI, Davies E, & Yates JWT (2017). "Multiscalar cellular automaton simulates in-vivo 
+tumour-stroma patterns calibrated from in-vitro assay data". BMC
+
+For questions:
+juan.x.delgado@gsk.com/james.yates@astrazeneca.com
+
+To run the code, open "StromaModel_ParamEstim.m" in matlab and hit "run" (F5). The program needs of the following
+matlab packages:
+	- image processing
+	- global optimisation
+	- PDE toolbox
+
+
+
